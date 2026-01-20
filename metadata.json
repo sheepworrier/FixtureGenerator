@@ -1,0 +1,5 @@
+{
+  "name": "FixtureBall",
+  "description": "A physics-based lottery fixture generator. Enter names, assign numbers, and watch the balls draw your tournament matchups in real-time.",
+  "requestFramePermissions": []
+}
